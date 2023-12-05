@@ -2,4 +2,10 @@
     <string name="app_name">LCBO Adviser</string>
     <string name="button_name">find drinks</string>
     <string name="brands">Click the button below to find drinks</string>
+    <string-array name="genres">
+        <item>wine</item>
+        <item>spirits</item>
+        <item>coolers</item>
+        <item>beer&amp;cider</item>
+    </string-array>
 </resources>
