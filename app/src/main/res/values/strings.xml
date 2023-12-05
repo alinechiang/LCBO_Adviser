@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LCBO Adviser</string>
+    <string name="button_name">find drinks</string>
+    <string name="brands">Click the button below to find drinks</string>
+</resources>
